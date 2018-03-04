@@ -1,0 +1,46 @@
+
+
+img{
+    position: absolute;
+
+    max-height: 57vh;
+
+   
+        left: 850px;
+        top: 270px;
+
+      
+    
+    
+    
+} 
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+audio:not(.player){
+    display: none;
+}
+
+
+
+
+#title img[src="title.png"]
+{position:absolute; TOP:10px; LEFT:300px; WIDTH:800px; HEIGHT:300px}
+
+#intro img[src="intro.png"]
+{position:absolute; TOP:180px; LEFT:505px; WIDTH:400px; HEIGHT:80px}
+
+#speech img[src="speech.png"]
+{position:absolute; TOP:640px; LEFT:40px; WIDTH:360px; HEIGHT:80px}
+
+#music img[src="music.png"]
+{position:absolute; TOP:680px; LEFT:1200px; WIDTH:140px; HEIGHT:35px}
+
+#two img[src="two.png"]
+{position:absolute; TOP:390px; LEFT:200px; WIDTH:500px; HEIGHT:150px}
+
+
+
+
